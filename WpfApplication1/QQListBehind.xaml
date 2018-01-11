@@ -1,0 +1,11 @@
+﻿<controls:MetroWindow x:Class="WpfApplication1.QQListBehind"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="好友列表" Height="550" Width="250">
+    <StackPanel Margin="0,50,0,0" >
+        <StackPanel Name="content">
+            
+        </StackPanel>
+    </StackPanel>
+</controls:MetroWindow>
