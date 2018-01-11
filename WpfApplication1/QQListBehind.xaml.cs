@@ -24,7 +24,7 @@ namespace WpfApplication1
         {
             InitializeComponent();
             AddHeard(4, "我的好友");
-            AddHeard(2, "中原五霸");
+            AddHeard(3, "中原五霸");
         }
         public void AddHeard(int count,string name)
         {
